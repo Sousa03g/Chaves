@@ -3,7 +3,7 @@ from mysql.connector import errorcode
 from datetime import datetime
 
 # --- 1. Classe de Conexão com o Banco ---
-# Gerencia a conexão, execução de queries e fetching de dados.
+# Gerencia a conexão, execução de queries e fetching de dado. batata
 
 class Database:
     """Classe para gerenciar a conexão com o banco de dados MySQL."""
